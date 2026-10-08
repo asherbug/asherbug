@@ -8,7 +8,7 @@ Programmer & Driver for **Obsidian Robotics, FRC Team #5454** in Bentonville, Ar
 - Pitch in on electrical and mechanical work: soldering, machining, assembly
 
 We've competed at regional, state, and international events.
-[Reach out to the team](https://technobotics.org/)
+[Technobotics](https://technobotics.org/)
 
 ## Skills
 **Languages:** Java · Python · C · C++ · Arduino C++ · JavaScript · TypeScript  

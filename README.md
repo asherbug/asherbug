@@ -25,3 +25,7 @@ I coach two FIRST LEGO League Challenge teams of 3rd–5th graders, play varsity
 
 ## Find me
 [LinkedIn](https://www.linkedin.com/in/asher-mostyn-6723013a2/)
+
+
+##
+![Daily Motivation](https://geekageddon-api.vercel.app/api/quotes?theme=aurora&category=grit&borderAnimation=rainbow-pulse-dots)

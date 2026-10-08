@@ -28,4 +28,4 @@ I coach two FIRST LEGO League Challenge teams of 3rd–5th graders, play varsity
 
 
 ##
-![Daily Motivation](https://geekageddon-api.vercel.app/api/quotes?theme=aurora&category=grit&borderAnimation=rainbow-pulse-dots)
+![Daily Motivation](https://geekageddon-api.vercel.app/api/quotes?)

@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Asher
 
-<!--
-**asherbug/asherbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programmer & Driver for **Obsidian Robotics, FRC Team #5454** in Bentonville, Arkansas. I'm a senior at Haas Hall Academy and plan to study electrical engineering and physics in college.
 
-Here are some ideas to get you started:
+## 🤖 FRC Team 5454
+- Write robot software mostly in **Java**
+- Debug the robot in real time at competitions, then drive it on the field
+- Pitch in on electrical and mechanical work: soldering, machining, assembly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We've competed at regional, state, and international events.
+[Reach out to the team](https://technobotics.org/)
+
+## 🛠️ Skills
+**Languages:** Java · Python · C · C++ · Arduino C++ · JavaScript · TypeScript  
+**Web:** React · Next.js  
+**Robotics & hardware:** ROS · computer vision · KiCad · Onshape · soldering & board design · TIG welding  
+**Tools:** Git
+
+## 🏆 Recognition
+- FIRST Leadership Award Nominee (2026)
+- FIRST All Star Volunteer Award (2026)
+
+## 🌱 Beyond code
+I coach two FIRST LEGO League Challenge teams of 3rd–5th graders, play varsity golf and chess, and play drums, guitar, and piano.
+
+## 📫 Find me
+[LinkedIn](https://www.linkedin.com/in/asher-mostyn-6723013a2/)

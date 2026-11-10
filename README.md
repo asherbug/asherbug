@@ -14,7 +14,7 @@ We've competed at regional, state, and international events.
 ## Skills
 **Languages:** Java · Python · C · C++ · Arduino C++ · JavaScript · TypeScript  
 **Web:** React · Next.js  
-**Robotics & hardware:** ROS · computer vision · KiCad · Onshape · soldering & board design · TIG welding  
+**Robotics & hardware:** ROS · computer vision · KiCad · Onshape · soldering & board design · DC TIG welding  
 **Tools:** Git
 
 ## Recognition
